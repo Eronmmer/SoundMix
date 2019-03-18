@@ -27,7 +27,7 @@ html {
   padding: .5rem .7rem;
   text-align: center;
   box-shadow: 0 0 .5rem red;
-  /* width: 10rem; */
+  width: 10rem;
   margin: 1rem;
 }
 
@@ -43,5 +43,10 @@ kbd {
   text-transform: uppercase;
   letter-spacing: .1rem;
   color: rgb(222, 206, 226);
+}
+
+.play-mode {
+  transform: scale(1.1);
+  border-color: yellow;
 }
 
