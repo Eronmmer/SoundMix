@@ -12,6 +12,13 @@ html {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.header {
+  color: white;
+  text-align: center;
+  padding-top: 5rem;
+  font-size: 20px;
+}
+
 .page {
   display: flex;
   justify-content: center;
@@ -29,6 +36,7 @@ html {
   box-shadow: 0 0 .5rem red;
   width: 10rem;
   margin: 1rem;
+  cursor: pointer;
 }
 
 kbd {
