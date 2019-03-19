@@ -15,15 +15,16 @@ html {
 .header {
   color: white;
   text-align: center;
-  padding-top: 5rem;
+  margin-top: 35vh;
+  margin-bottom: 5vh;
   font-size: 20px;
+  letter-spacing: .1em;
 }
 
 .page {
   display: flex;
   justify-content: center;
-  align-items: center;
-  min-height: 100vh;
+  align-items: flex-start;
   flex: 1;
 }
 
